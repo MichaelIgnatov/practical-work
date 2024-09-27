@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+.interest-input {
+    margin: 5px 0;
+}
+.error {
+    color: red;
+    margin-bottom: 20px;
+}
+#output {
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    padding: 20px 20px 20px 20px;
+    height: 100%;
+}
+
+.form-container {
+    width: 440px;
+    height: 525px;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 5%;
+}
+
+.send-button {
+    display: block;
+    margin: auto;
+    width: 120px;
+}
+
+#output {
+    margin-top: 50px;
+    text-align: center;
+}
